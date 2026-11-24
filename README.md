@@ -11,6 +11,7 @@
 ### Tools I use
 - **Data:** SQL, Power BI (learning)
 - **Research:** Screener.in, Tickertape, StockEdge
+- **https://drive.google.com/drive/folders/1tnKARP3do02TOpOu89ROYwp_HprgQrTH?usp=sharing**
 
 ### How to reach me
 - 📍 Jaipur, Rajasthan, India
