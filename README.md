@@ -10,7 +10,6 @@
 
 ### Tools I use
 - **Data:** SQL, Power BI (learning)
-- **Ops:** Jibble (attendance), Google Sheets
 - **Research:** Screener.in, Tickertape, StockEdge
 
 ### How to reach me
